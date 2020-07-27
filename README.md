@@ -1,5 +1,6 @@
 # hospiatalpredict
 
+
 ## 프로젝트 소개
 
 병원에 대한 회계 데이터를 통해 국내 병원의 개/폐업을 예측하였습니다.
@@ -10,6 +11,7 @@
 
 Dataset은 한국의 캐글 이라고 불리우는 데이콘(https://dacon.io/) 이라는 사이트에서 획득하였습니다.
 * https://dacon.io/competitions/official/9565/overview/
+
 이 데이터의 특징은 float type 64개, object type 4개, int64 type 4개로 구성되어 있습니다. 또한, shape는 row=301개 column = 58개로 구성되어 있습니다. 
 이 데이터는 회계 데이터로 주로 구성되어 있습니다.
 
@@ -22,4 +24,5 @@ Dataset은 한국의 캐글 이라고 불리우는 데이콘(https://dacon.io/) 
 ## team
 
 김영민 - 인천대학교 경제학과
+
 강민정 - 인천대학교 수학과
